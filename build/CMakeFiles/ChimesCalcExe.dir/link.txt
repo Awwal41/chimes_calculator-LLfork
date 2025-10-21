@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -funroll-all-loops CMakeFiles/ChimesCalcExe.dir/serial_interface/examples/cpp/main.cpp.o -o chimescalc  -Wl,-rpath,/home/awwalola/Codes/Calculator/build: libchimescalc.so 

@@ -1,0 +1,1 @@
+/usr/bin/cc  -O3 -funroll-all-loops CMakeFiles/chimescalc-test_direct-C.dir/chimesFF/examples/c/main.c.o -o chimescalc-test_direct-C  -Wl,-rpath,/home/awwalola/Codes/Calculator/build libchimescalc.so -lm 

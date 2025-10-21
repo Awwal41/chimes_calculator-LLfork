@@ -1,0 +1,15 @@
+/home/awwalola/Codes/Calculator/build/lib64/libchimescalc.so
+/home/awwalola/Codes/Calculator/build/include/chimescalc/chimesFF.h
+/home/awwalola/Codes/Calculator/build/include/chimescalc/chimescalc_C.h
+/home/awwalola/Codes/Calculator/build/include/chimescalc/serial_chimes_interface.h
+/home/awwalola/Codes/Calculator/build/include/chimescalc/chimescalc_serial_C.h
+/home/awwalola/Codes/Calculator/build/bin/chimescalc
+/home/awwalola/Codes/Calculator/build/lib64/libchimescalc_dl.so
+/home/awwalola/Codes/Calculator/build/lib64/libchimescalc_fortran.so
+/home/awwalola/Codes/Calculator/build/include/chimescalc/modfiles/chimescalc_serial08.mod
+/home/awwalola/Codes/Calculator/build/include/chimescalc/modfiles/chimescalc.mod
+/home/awwalola/Codes/Calculator/build/include/chimescalc/modfiles/chimescalc_serial.mod
+/home/awwalola/Codes/Calculator/build/lib64/cmake/chimescalc/chimescalc-targets.cmake
+/home/awwalola/Codes/Calculator/build/lib64/cmake/chimescalc/chimescalc-targets-release.cmake
+/home/awwalola/Codes/Calculator/build/lib64/cmake/chimescalc/chimescalc-config.cmake
+/home/awwalola/Codes/Calculator/build/lib64/cmake/chimescalc/chimescalc-config-version.cmake

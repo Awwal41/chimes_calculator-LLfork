@@ -1,0 +1,1 @@
+/usr/bin/gfortran   -std=f2008  -O3 -funroll-all-loops CMakeFiles/chimescalc-test_serial-F.dir/serial_interface/examples/fortran/main.F90.o -o chimescalc-test_serial-F  -Wl,-rpath,/home/awwalola/Codes/Calculator/build libchimescalc_fortran.so libchimescalc.so 

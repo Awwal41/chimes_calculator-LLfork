@@ -1,0 +1,1 @@
+/usr/bin/cc  -O3 -funroll-all-loops CMakeFiles/chimescalc-test_serial-C.dir/serial_interface/examples/c/main.c.o -o chimescalc-test_serial-C  -Wl,-rpath,/home/awwalola/Codes/Calculator/build libchimescalc.so 

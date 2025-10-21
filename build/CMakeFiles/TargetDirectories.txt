@@ -1,0 +1,15 @@
+/home/awwalola/Codes/Calculator/build/CMakeFiles/ChimesCalc.dir
+/home/awwalola/Codes/Calculator/build/CMakeFiles/ChimesCalcExe.dir
+/home/awwalola/Codes/Calculator/build/CMakeFiles/chimescalc-test_direct-C.dir
+/home/awwalola/Codes/Calculator/build/CMakeFiles/chimescalc-test_serial-C.dir
+/home/awwalola/Codes/Calculator/build/CMakeFiles/ChimesCalc_dynamic.dir
+/home/awwalola/Codes/Calculator/build/CMakeFiles/ChimesCalc_Fortran.dir
+/home/awwalola/Codes/Calculator/build/CMakeFiles/chimescalc-test_serial-F.dir
+/home/awwalola/Codes/Calculator/build/CMakeFiles/chimescalc-test_serial-F08.dir
+/home/awwalola/Codes/Calculator/build/CMakeFiles/test.dir
+/home/awwalola/Codes/Calculator/build/CMakeFiles/edit_cache.dir
+/home/awwalola/Codes/Calculator/build/CMakeFiles/rebuild_cache.dir
+/home/awwalola/Codes/Calculator/build/CMakeFiles/list_install_components.dir
+/home/awwalola/Codes/Calculator/build/CMakeFiles/install.dir
+/home/awwalola/Codes/Calculator/build/CMakeFiles/install/local.dir
+/home/awwalola/Codes/Calculator/build/CMakeFiles/install/strip.dir
